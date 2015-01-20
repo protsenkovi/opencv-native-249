@@ -1,0 +1,2 @@
+call mvn install:install-file -Dfile=opencv-2.4.9.jar -DgroupId="opencv" -DartifactId="opencv" -Dversion="2.4.9" -Dpackaging=jar
+call mvn install:install-file -Dfile=opencv-native-2.4.9-win.jar -DgroupId="opencv" -DartifactId="opencv" -Dversion="2.4.9" -Dpackaging=jar

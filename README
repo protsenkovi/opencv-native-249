@@ -1,0 +1,3 @@
+Compiled opencv java bindings with native libraries and installation script to local maven repository.
+
+Maven should be installed.
